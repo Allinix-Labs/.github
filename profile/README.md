@@ -5,8 +5,7 @@
 > Pioneering Enterprise-Grade Autonomous AI Agents
 
 [![Documentation](https://img.shields.io/badge/docs-gitbook-blue.svg)](https://nisafi11.gitbook.io/allinix/)
-[![GitHub Stars](https://img.shields.io/github/stars/allinix-labs/allinix?style=social)](https://github.com/allinix-labs/allinix)
-[![Twitter Follow](https://img.shields.io/twitter/follow/allinixlabs?style=social)](https://twitter.com/allinixlabs)
+[![GitHub Stars](https://img.shields.io/github/stars/Allinix-Labs/Allinix?style=social)](https://github.com/Allinix-Labs/Allinix)
 
 ## Vision
 
@@ -57,26 +56,13 @@ graph TD
 ## 📚 Resources
 
 - [Documentation](https://nisafi11.gitbook.io/allinix/)
-- [API Reference](https://api.allinixlabs.com)
-- [Case Studies](https://allinixlabs.com/cases)
-- [Security](https://allinixlabs.com/security)
-- [Blog](https://blog.allinixlabs.com)
-
-## 🤝 Enterprise Contact
-
-- **Sales**: enterprise@allinixlabs.com
-- **Support**: support@allinixlabs.com
-- **Security**: security@allinixlabs.com
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allinix%20Labs-blue)](https://linkedin.com/company/allinix-labs)
-[![Discord](https://img.shields.io/discord/PLACEHOLDER_ID)](https://discord.gg/allinix)
-[![Twitter](https://img.shields.io/twitter/follow/allinixlabs?style=social)](https://twitter.com/allinixlabs)
+- [Case Studies](https://nisafi11.gitbook.io/allinix/essentials/allinix-use-cases)
+- [Contributing](https://nisafi11.gitbook.io/allinix/essentials/contributing-to-allinix)
+- [FAQ](https://nisafi11.gitbook.io/allinix/essentials/frequently-asked-questions)
 
 ---
 
 <p align="center">
 <i>Empowering Enterprises with Autonomous AI</i><br>
-<a href="https://allinixlabs.com">www.allinixlabs.com</a>
+<a href="https://allinix.ai/">https://allinix.ai/</a>
 </p>
