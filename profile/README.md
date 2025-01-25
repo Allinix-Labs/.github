@@ -1,4 +1,4 @@
-![Allinix Labs Banner](https://user-images.githubusercontent.com/PLACEHOLDER_ID/allinix-labs-banner.png)
+![Allinix Labs Banner](https://github.com/Allinix-Labs/Allinix/raw/main/next/public/banner.png)
 
 # Allinix Labs
 
