@@ -4,7 +4,7 @@
 
 > Pioneering Enterprise-Grade Autonomous AI Agents
 
-[![Documentation](https://img.shields.io/badge/docs-gitbook-blue.svg)](https://allinix.gitbook.io/allinix/)
+[![Documentation](https://img.shields.io/badge/docs-gitbook-blue.svg)](https://docs.allinix.ai/)
 [![GitHub Stars](https://img.shields.io/github/stars/Allinix-Labs/Allinix?style=social)](https://github.com/Allinix-Labs/Allinix)
 
 ## Vision
@@ -55,10 +55,10 @@ graph TD
 
 ## 📚 Resources
 
-- [Documentation](https://allinix.gitbook.io/allinix/)
-- [Case Studies](https://allinix.gitbook.io/allinix/essentials/allinix-use-cases)
-- [Contributing](https://allinix.gitbook.io/allinix/essentials/contributing-to-allinix)
-- [FAQ](https://allinix.gitbook.io/allinix/essentials/frequently-asked-questions)
+- [Documentation](https://docs.allinix.ai/)
+- [Case Studies](https://docs.allinix.ai/essentials/allinix-use-cases)
+- [Contributing](https://docs.allinix.ai/essentials/contributing-to-allinix)
+- [FAQ](https://docs.allinix.ai/essentials/frequently-asked-questions)
 
 ---
 
